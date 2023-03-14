@@ -1,0 +1,26 @@
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Testing\Multiple Views\Views\KimMessage.g.cs
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Testing\Multiple Views\Views\NienMessage.g.cs
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Testing\Multiple Views\Views\KimMessage.baml
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\Testing\Multiple Views\Views\NienMessage.baml
+C:\Users\Nien\Downloads\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll

@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\documents.png" />
+    <None Remove="Images\folder.png" />
+    <None Remove="Images\folder_open.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\documents.png" />
+    <Resource Include="Images\folder.png" />
+    <Resource Include="Images\folder_open.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Testing\Multiple Views\Models\" />
+  </ItemGroup>
+
+</Project>
